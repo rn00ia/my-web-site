@@ -1,0 +1,98 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Product 1",
+        "description": "This is the description for Product 1.",
+        "price": 19.99,
+        "category": "women",
+        "image": "./assests/w1.jpg",
+        "rating": { "rate": 4.5, "count": 100 }
+      },
+      {
+        "id": 2,
+        "title": "Product 2",
+        "description": "This is the description for Product 2.",
+        "price": 29.99,
+        "category": "men",
+        "image": "/assests/m1.jpg",
+        "rating": { "rate": 4.0, "count": 50 }
+      },
+      {
+        "id": 3,
+        "title": "Product 3",
+        "description": "This is the description for Product 3.",
+        "category": "men",
+        "image": "/assests/m2.jpg",
+        
+        "rating": { "rate": 3.8, "count": 120 }
+      },
+    
+      {
+        "id": 5,
+        "title": "Product 5",
+        "description": "This is the description for Product 5.",
+        "price": 15.99,
+        "category": "women",
+        "image": "/assests/w3.jpg",
+      
+        "rating": { "rate": 4.3, "count": 90 }
+      },
+      {
+        "id": 6,
+        "title": "Product 6",
+        "description": "This is the description for Product 6.",
+        "price": 25.99,
+        "category": "men",
+        "image": "/assests/m3.jpg",
+        "rating": { "rate": 3.9, "count": 60 }
+      },
+      {
+        "id": 7,
+        "title": "Product 7",
+        "description": "This is the description for Product 6.",
+        "price": 25.99,
+        "category": "women",
+        "image": "/assests/w4.jpg",
+        "rating": { "rate": 3.9, "count": 60 }
+      },
+      {
+        "id": 8,
+        "title": "Product 8",
+        "description": "This is the description for Product 6.",
+        "price": 25.99,
+        "category": "men",
+        "image": "./assests/m4.jpg",
+        "rating": { "rate": 3.9, "count": 60 }
+      },
+      {
+        "id": 9,
+        "title": "Product 9",
+        "description": "This is the description for Product 6.",
+        "price": 25.99,
+        "category": "women",
+        "image": "/assests/w5.jpg",
+        "rating": { "rate": 3.9, "count": 60 }
+      },
+      {
+        "id": 10,
+        "title": "Product 6",
+        "description": "This is the description for Product 6.",
+        "price": 25.99,
+        "category": "men",
+        "image": "/assests/m5.jpg",
+        "rating": { "rate": 3.9, "count": 60 }
+      },
+      
+      {
+        "id": 11,
+        "title": "Product 11",
+        "description": "This is the description for Product 6.",
+        "price": 25.99,
+        "category": "women",
+        "image": "/assests/w6.jpg",
+        "rating": { "rate": 3.9, "count": 60 }
+      }
+    ]
+  }
+  

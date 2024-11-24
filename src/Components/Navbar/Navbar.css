@@ -1,0 +1,50 @@
+.icons{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    font-size: 28px;
+}
+    
+
+.nav-btn{
+    font-size: 16px;
+font-weight: bold;
+    width: 85px;
+    height:50px;
+    background-color: transparent;
+    border: 1px solid rgb(50, 49, 114) ;
+    color: rgb(44, 43, 112);
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    cursor:pointer;
+    
+}
+.nav-btn:hover{
+    background-color: rgb(48, 35, 107);
+
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 25px;
+    color:rgb(74, 67, 110);
+}
+.nav-link {
+  color: rgb(103, 112, 163);
+  font-size: 19px;
+  padding-bottom: 4px;
+  
+}
+.nav-link:hover {
+    border-bottom: 4px solid rgb(34, 47, 102);
+    
+    padding-bottom: 5px;
+  }
+.nav-link.active {
+    border-bottom: 2px solid #6751b8;
+    font-weight: bold;
+    
+    transition: all 0.3s ease-in-out;
+  }

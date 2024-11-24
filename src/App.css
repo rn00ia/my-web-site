@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+nav{
+  width: 100%;
+ background-color: white;
+ color: #49557e;
+
+}.header {
+  background-image: url('./Components/home.jpg'); 
+  height: 90vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.home {
+  margin-top: 55px;
+  margin-bottom: -20px;
+  background-image: url('./Components/men.jpg'); /* Assurez-vous du bon chemin */
+  height: 55vh;
+  background-size: cover;
+  background-position: center;
+}
+.home-women {
+  margin-top: 55px;
+  margin-bottom: -20px; 
+  background-image: url('./Components/men.jpg'); 
+  height: 55vh;
+  background-size: cover;
+  background-position: center;
+}
+
